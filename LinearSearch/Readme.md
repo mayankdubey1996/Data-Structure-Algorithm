@@ -7,4 +7,4 @@ element = 1
 ### Sample Output ###
 6
 # Example #
-![](Images/LinearSearch.png)
+![](Images/LinearSearch.jpg)
