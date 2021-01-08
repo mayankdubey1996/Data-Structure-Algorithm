@@ -10,7 +10,7 @@ target = 33
 3
 
 ### Important Condition ###
-To perfrom binary search the has to be sorted. 
+To perfrom binary search the array has to be sorted. 
 
 ### Hint ###
 Divide and conquer   
