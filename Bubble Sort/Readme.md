@@ -1,6 +1,6 @@
 # Bubble Sort #
 Write a function that takes in an array of integers and returns a sorted version of that array. Use the Bubble Sort algorithm to sort the array.
-If you're unfamiliar with Bubble Sort,watch this video which will give the conceptual overview of the Bubble sort [Link to the Video](https://www.youtube.com/watch?v=lyZQPjUT5B4) 
+If you're unfamiliar with Bubble Sort,watch this video which will give the conceptual overview of the Bubble sort [Link to the Video](https://www.linkedin.com/posts/mayank-dubey11_datastructures-complexity-sorting-activity-6758786813793443840-U5KQ) 
 ### Sample Input ###
 array = [8, 5, 2, 9, 5, 6, 3]
 ### Sample Output ###
