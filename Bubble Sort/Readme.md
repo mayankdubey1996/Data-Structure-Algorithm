@@ -8,7 +8,7 @@ array = [8, 5, 2, 9, 5, 6, 3]
 
 ### Idea: ###
 Do len(array): <br>
-	Compare element(j-1) with next element (j) 
+	</t> Compare element(j-1) with next element (j) 
 	if array[j-1] is greater than array[j]:
 		swap array[j-1] with array[j]  
 
