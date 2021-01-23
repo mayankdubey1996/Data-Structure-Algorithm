@@ -8,9 +8,9 @@ array = [8, 5, 2, 9, 5, 6, 3]
 
 ### Idea: ###
 Do len(array):
-	Compare element(j) with next element (j+1) 
-	if array[j] is greater than array[j+1]:
-		swap array[j] witharray[j+1]  
+	Compare element(j-1) with next element (j) 
+	if array[j-1] is greater than array[j]:
+		swap array[j-1] with array[j]  
 
 # Example #
 ![](images/bubblesort1.png)
