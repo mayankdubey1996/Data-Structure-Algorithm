@@ -7,8 +7,8 @@ array = [8, 5, 2, 9, 5, 6, 3]
 [2, 3, 5, 5, 6, 8, 9]
 
 ### Idea: ###
-Compare element(j-1) with next element (j) 
-if array[j-1] is greater than array[j]:
+Compare element(j-1) with next element (j) <br>
+if array[j-1] is greater than array[j]: <br>
 swap array[j-1] with array[j] 
 
 
