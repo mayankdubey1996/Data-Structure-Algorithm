@@ -7,3 +7,5 @@
 
 ### Sorting Algorithms ###
 1) Bubble sort
+2) Selection sort
+
