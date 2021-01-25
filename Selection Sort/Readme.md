@@ -11,8 +11,8 @@ array = [8, 5, 2, 9, 5, 6, 3]
 Idea is to get maximum or minimum element in each iteration and placing it to its appropriate index
 
 
-### Solution 1 ###
-solution2.py - getting minimum element and placing it to the approriate postion.
+### Solution ###
+SelectionSort.py 
 
 # Example #
 ![](images/slectionsort1.jpg)
