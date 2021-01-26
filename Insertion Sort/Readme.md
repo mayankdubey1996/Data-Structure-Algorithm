@@ -1,6 +1,6 @@
 # Insertion Sort #
 Write a function that takes in an array of integers and returns a sorted version of that array. Use the Insertion Sort algorithm to sort the array.
-If you're unfamiliar with Insertion sort watch this video which will give the conceptual overview of the Insertion sort [Link to the Video](https://www.youtube.com/watch?v=aanStpJQexc)
+If you're unfamiliar with Insertion sort watch this video which will give the conceptual overview of the Insertion sort [Link to the Video](https://www.linkedin.com/posts/mayank-dubey11_datastructures-algorithms-sorting-activity-6759822630087360512-NQ2F)
 
 ### Sample Input ###
 array = [8, 5, 2, 9, 5, 6, 3]
