@@ -10,7 +10,13 @@ array = [8, 5, 2, 9, 5, 6, 3]
 Compare element(j-1) with next element (j) <br>
 if array[j-1] is greater than array[j]: <br>
 swap array[j-1] with array[j] 
+### Time complexity ###
+Best case - O(N)
+Average case - O(N^2)
+Worst case - O(N^2)
 
+### Space complexity ###
+O(1)
 
 # Example #
 ![](images/bubblesort1.png)
