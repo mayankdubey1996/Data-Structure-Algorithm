@@ -11,6 +11,14 @@ array = [8, 5, 2, 9, 5, 6, 3]
 <li>Now array is divided in two parts left of pivot and right of pivot (divide and conquer).</li>
 <li>Apply same procedure on those two parts.</li>
 
+### Time complexity ###
+Best case - O(N log N) <br>
+Average case - O(N log N) <br>
+Worst case - O(N^2) <br>
+
+### Space complexity ###
+O(1)
+
 
 
 # Example #
