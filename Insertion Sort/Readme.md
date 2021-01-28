@@ -10,6 +10,14 @@ array = [8, 5, 2, 9, 5, 6, 3]
 ### Idea ###
 The main idea comes from the name inserting a new element from unsorted zone to sorted zone of an array.
 
+### Time complexity ###
+Best case - O(N) <br>
+Average case - O(N^2) <br>
+Worst case - O(N^2) <br>
+
+### Space complexity ###
+O(1)
+
 ### Solution ###
 InsertionSort.py
 
