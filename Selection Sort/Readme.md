@@ -10,6 +10,14 @@ array = [8, 5, 2, 9, 5, 6, 3]
 ### Idea ##
 Idea is to get maximum or minimum element in each iteration and placing it to its appropriate index
 
+### Time complexity ###
+Best case - O(N^2) <br>
+Average case - O(N^2) <br>
+Worst case - O(N^2) <br>
+
+### Space complexity ###
+O(1)
+
 
 ### Solution ###
 SelectionSort.py 
