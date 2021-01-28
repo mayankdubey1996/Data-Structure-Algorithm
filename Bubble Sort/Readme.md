@@ -13,7 +13,7 @@ swap array[j-1] with array[j]
 ### Time complexity ###
 Best case - O(N) <br>
 Average case - O(N^2) <br>
-Worst case - O(N^2) <<br>
+Worst case - O(N^2) <br>
 
 ### Space complexity ###
 O(1)
