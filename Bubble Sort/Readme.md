@@ -11,9 +11,9 @@ Compare element(j-1) with next element (j) <br>
 if array[j-1] is greater than array[j]: <br>
 swap array[j-1] with array[j] 
 ### Time complexity ###
-Best case - O(N)
-Average case - O(N^2)
-Worst case - O(N^2)
+Best case - O(N) <br>
+Average case - O(N^2) <br>
+Worst case - O(N^2) <<br>
 
 ### Space complexity ###
 O(1)
