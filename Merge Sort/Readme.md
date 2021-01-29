@@ -17,7 +17,7 @@ Best case - O(N log N)
 Average case - O(N log N)
 Worst case - O(N log N)
 
-#Space Complexity ###
+### Space Complexity ###
 O(N)
 
 # Example #
