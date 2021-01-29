@@ -4,7 +4,7 @@ def binarySearch(array, target):
     return binary_search_helper(array, target, left, right)
 
 def binary_search_helper(array, target, left , right):
-    mid = int((left + right)//2)
+    mid = (left + right)//2
     
     
     if left>right:
