@@ -13,9 +13,9 @@ array = [8, 5, 2, 9, 5, 6, 3]
 <li>Recursively divide Left side  and Right side of array</li>
 
 ### Time complexity ###
-Best case - O(N log N)
-Average case - O(N log N)
-Worst case - O(N log N)
+Best case - O(N log N) <br>
+Average case - O(N log N) <br>
+Worst case - O(N log N) <br>
 
 ### Space Complexity ###
 O(N)
