@@ -9,6 +9,9 @@ def partition(arr, r, l):
             l = l+1
         elif arr[l]>arr[pivot] and arr[r]>arr[pivot]:
             r = r-1
+        else:
+            l=l+1
+            r=r-1
     if l>r:
         arr[pivot],arr[r] = arr[r],arr[pivot]
     return r
