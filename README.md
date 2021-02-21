@@ -1,4 +1,4 @@
-# Data-Structure-Algorithm
+# Data-Structure-Algorithm #
 
 ### Searching Algorithms ###
 1) Linear Search
